@@ -1,5 +1,3 @@
-# Java-Experiment-4
-
 # To display the even numbers from 1-20
 
 ## Aim:
